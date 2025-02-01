@@ -14,6 +14,7 @@ DOMAIN: FULL STACK WEB DEVELOPMENT
 
 DURATION: 4 WEEKS
 
+MENTOR: NEELA SANTOSH
 
 Real-Time Collaboration Tool - Internship Project at Codetech IT Solutions
 
@@ -29,7 +30,13 @@ Sync Across Devices: Users can collaborate from different devices without any de
 This project demonstrates the practical application of real-time web technologies and collaborative tools, showcasing the ability to build interactive and efficient document editing systems.
 
 
-MENTOR: NEELA SANTOSH
+
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/c4a8a5cf-0bb6-41ac-b0a8-52edb8d6aed2)
+![Image](https://github.com/user-attachments/assets/e0421959-0671-4237-8764-3595bd8aa4c7)
+![Image](https://github.com/user-attachments/assets/603ea8d6-9332-405f-9901-dddf38b89bd2)
+![Image](https://github.com/user-attachments/assets/5c5ce2db-2009-4ca1-99d8-1efd31232e50)
 
 
 
